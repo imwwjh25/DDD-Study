@@ -23,4 +23,3 @@ DDD的实现方式有很多种，这里只是记录自己在学习过程中的�
 4. [领域驱动设计模式的收益与挑战](https://blog.zhuxingsheng.com/blog/benefits-and-challenges-of-domain-driven-design-patterns.html)
 5. [DDD战术实践指南](https://blog.zhuxingsheng.com/blog/ddd-tactical-practice-guide.html)
 6. [阿里DDD四弹拜读](https://blog.zhuxingsheng.com/blog/ali-ddd-four-bombs-reading.html) **ps**: 这是对上面的【阿里大淘宝技术的DDD系列文章】的文章
-## 领域驱动设计（Domain-Driven Design，简称DDD）
