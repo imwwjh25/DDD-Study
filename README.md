@@ -18,5 +18,9 @@ DDD的实现方式有很多种，这里只是记录自己在学习过程中的�
 
 > [聊聊如何避免写流水账代码](https://juejin.cn/post/6953141151931039758)
 
-2. [DDD工程代码模型的几种包风格](https://blog.zhuxingsheng.com/blog/several-package-styles-of-ddd-project-code-model.html) ps：作者的其他的关于DDD的文章也值得阅读
+2. [DDD工程代码模型的几种包风格](https://blog.zhuxingsheng.com/blog/several-package-styles-of-ddd-project-code-model.html)
+3. [DDD聚合设计的困境](https://blog.zhuxingsheng.com/blog/the-dilemma-of-ddd-aggregation-design.html)
+4. [领域驱动设计模式的收益与挑战](https://blog.zhuxingsheng.com/blog/benefits-and-challenges-of-domain-driven-design-patterns.html)
+5. [DDD战术实践指南](https://blog.zhuxingsheng.com/blog/ddd-tactical-practice-guide.html)
+6. [阿里DDD四弹拜读](https://blog.zhuxingsheng.com/blog/ali-ddd-four-bombs-reading.html) **ps**: 这是对上面的【阿里大淘宝技术的DDD系列文章】的文章
 ## 领域驱动设计（Domain-Driven Design，简称DDD）
